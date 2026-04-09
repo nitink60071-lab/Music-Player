@@ -15,7 +15,7 @@ HTML
 CSS
 
 ## Screenshot
-![Project Screenshot] (music.png)
+![Project Screenshot] (music1.png)
 
 ## Author
 Nitin Kumar
