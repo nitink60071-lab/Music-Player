@@ -14,5 +14,8 @@ Clean User Interface
 HTML
 CSS
 
+## Screenshot
+![Project Screenshot] (music.png)
+
 ## Author
 Nitin Kumar
